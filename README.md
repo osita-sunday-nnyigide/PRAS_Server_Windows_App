@@ -46,3 +46,9 @@ This test is used to measure the viscoelasticity of the gel by computing the sto
 This test is used to measure the viscoelasticity of the gel by computing the storage and loss moduli at different strains, using Lees-Edwards boundary condition applied in oscillatory fashion. This is a non-equilibrium steady state simulation. A user manual detailing the procedure is included with the distribution. The storage and loss moduli obtained at various strains is shown in the figure below.
 
 ![Strain Sweep](https://github.com/osita-sunday-nnyigide/PRAS_Server_Windows_App/blob/main/strain%20sweep.png)
+
+# REFERENCES
+
+PRAS has been peer reviewed and published. Please cite PRAS as:
+
+O.S. Nnyigide, T.O. Nnyigide, S.G. Lee, K. Hyun. Protein Repair and Analysis Server: A Web Server to Repair PDB Structures, Add Missing Heavy Atoms and Hydrogen Atoms, and Assign Secondary Structures by Amide Interactions. J. Chem. Inf. Model., 2022, 62, 4232–4246.
