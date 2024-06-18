@@ -11,4 +11,4 @@ The program has been tested on Windows 10 and 11 64-bit operating systems. The p
 # USAGE
 
 
-![Protein Repair dashboard]([https://github.com/your-username/your-repo/raw/main/images/diagram.png](https://drive.google.com/file/d/1WTHjqPuLGRrBXCC7PoYfAqpYDxc4efV8/view?usp=drive_link)
+![Protein Repair dashboard](https://drive.google.com/file/d/1WTHjqPuLGRrBXCC7PoYfAqpYDxc4efV8/view?usp=drive_link)
