@@ -26,3 +26,8 @@ To build a nanostructure, the user should first select the desired shape. For a 
 
 ![Nano Structures](https://github.com/osita-sunday-nnyigide/PRAS_Server_Windows_App/blob/main/nano%20structures.png)
 
+## Brownian Dynamics
+### Gel preparation
+I implemented Brownian dynamics (BD) simulation for the study of viscoelastic behaviour of colloidal gels. Here, the colloidal gel  are prepared under equilibrium condition. The user should follow the tutorial in the user manual to simulate the gel as shown iin the figure below.
+The BD simulation is conducted in reduced units as often the case in the literature.
+
