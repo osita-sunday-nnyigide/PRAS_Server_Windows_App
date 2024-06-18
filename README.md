@@ -1,14 +1,7 @@
-# VAOS
+# PRAS WINDOWS APPLICATION
 
-Visualization of Amplitude Oscillatory Shear is a visualization software focused on exploring, analysing and comparing AOS data. The software prepocesses the data with a Fourier Transform for LAOS data, and the calculations are based on MITlaos (https://web.mit.edu/nnf/research/phenomena/mit_laos.html). It features a wide variety of graph types and variables to explore the data, such as Lissajous curves, Pipkin diagram, Stiffening or Thickening ratios. Any of the graphs and their settings can be setup as the user wants in the dashboard, which that also features premade templates for specific type of tasks.
-
-![dashboard_simtemplate_menu](https://user-images.githubusercontent.com/107499921/175612836-5e67b5e1-7f61-415b-b3c5-fc3ee1a184ea.png)
-
+On June 15, 2024, an easy-to-use Windows Desktop Application version of the server was developed. The download link for the EXE file is available through the website https://www.protein-science.com/
 
 # Installing
 
-Go to the URL https://github.com/J-Matzen/VAOS/releases
-
-At the top is the latest release, go under "Assets" and download the "VAOS.Setup.\{VERSION NUMBER\}.exe.zip" file
-
-Unzip it and run it to install.
+The program has been tested on Windows 10 and 11 64-bit operating systems. The program follows a standard Windows installation process. To install the software, double-click the installation file. A shortcut is automatically created on the desktop upon completion. To uninstall the software, navigate to Control Panel -> Programs and Features, then double-click to uninstall.
