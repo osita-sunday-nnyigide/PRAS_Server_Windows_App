@@ -36,3 +36,8 @@ I implemented Brownian dynamics (BD) simulation for the study of the viscoelasti
 This test is used to measure the viscosity of the gel at various shear rates, using Lees-Edwards boundary condition. This is a non-equilibrium steady state simulation. A user manual detailing the tutorial is included with the distribution. The viscosity of the gel obtained at various shear rates is shown in the figure below.
 
 ![Equilibrium Gels Viscosity](https://github.com/osita-sunday-nnyigide/PRAS_Server_Windows_App/blob/main/equilibrium%20gels%20viscosity.png)
+
+### Frequency Sweep Test 
+This test is used to measure the viscoelasticity of the gel by computing for the storage and loss moduli at different frequencies, using Lees-Edwards boundary condition applied in oscillatory fashion. This is a non-equilibrium steady state simulation. A user manual detailing the tutorial is included with the distribution. The storage and loss moduli obtained at various shear rates is shown in the figure below.
+
+![Frequency Sweep](https://github.com/osita-sunday-nnyigide/PRAS_Server_Windows_App/blob/main/frequency%20sweep.png)
