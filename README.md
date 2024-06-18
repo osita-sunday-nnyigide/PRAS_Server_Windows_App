@@ -8,3 +8,7 @@ While the web application interface performs only the tasks described in the PRA
 
 The program has been tested on Windows 10 and 11 64-bit operating systems. The program follows a standard Windows installation process. To install the software, double-click the installation file. A shortcut is automatically created on the desktop upon completion. To uninstall the software, navigate to Control Panel -> Programs and Features, then double-click to uninstall.
 
+# USAGE
+
+
+![Protein Repair dashboard]([https://github.com/your-username/your-repo/raw/main/images/diagram.png](https://drive.google.com/file/d/1WTHjqPuLGRrBXCC7PoYfAqpYDxc4efV8/view?usp=drive_link))
