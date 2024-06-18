@@ -45,4 +45,4 @@ This test is used to measure the viscoelasticity of the gel by computing the sto
 ### Strain Sweep Test 
 This test is used to measure the viscoelasticity of the gel by computing the storage and loss moduli at different strains, using Lees-Edwards boundary condition applied in oscillatory fashion. This is a non-equilibrium steady state simulation. A user manual detailing the procedure is included with the distribution. The storage and loss moduli obtained at various strains is shown in the figure below.
 
-![Frequency Sweep](https://github.com/osita-sunday-nnyigide/PRAS_Server_Windows_App/blob/main/strain%20sweep.png)
+![Strain Sweep](https://github.com/osita-sunday-nnyigide/PRAS_Server_Windows_App/blob/main/strain%20sweep.png)
