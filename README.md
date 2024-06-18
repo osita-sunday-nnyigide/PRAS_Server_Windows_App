@@ -28,6 +28,7 @@ To build a nanostructure, the user should first select the desired shape. For a 
 
 ## Brownian Dynamics
 ### Gel preparation
-I implemented Brownian dynamics (BD) simulation for the study of viscoelastic behaviour of colloidal gels. Here, the colloidal gel  are prepared under equilibrium condition. The user should follow the tutorial in the user manual to simulate the gel as shown iin the figure below.
-The BD simulation is conducted in reduced units as often the case in the literature.
+I implemented Brownian dynamics (BD) simulation for the study of the viscoelastic behaviour of colloidal gels. Here, the colloidal gels are prepared under equilibrium condition where natural fluctuations govern the process. The user should follow the tutorial in the user manual to simulate the gel as shown in the figure below. The BD simulation is conducted in reduced units as often the case in the literature. The energy shown in the figure below is the total energy and not the energy per particle. The user can divide the total energy by the number of particles to obtain the energy per particle.
+
+![Equilibrium Gels](https://github.com/osita-sunday-nnyigide/PRAS_Server_Windows_App/blob/main/equilibrium%20gels.png)
 
